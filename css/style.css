@@ -1,4 +1,12 @@
 /* Base */
+
+.foto {
+  height: 350px;
+  margin-bottom: 10px;
+  border-radius: 100px;
+  border: 1px solid #f26200;
+}
+
 html {
   overflow-x: hidden; }
 
